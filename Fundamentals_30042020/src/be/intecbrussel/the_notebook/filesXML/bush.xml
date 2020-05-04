@@ -1,0 +1,22 @@
+<plants>
+	<plant type="Bush">
+		<name>Coordination</name>
+		<height>35.51</height>
+		<fruit>apple</fruit>
+	</plant>
+	<plant type="Bush">
+		<name>Climbers</name>
+		<height>45.45</height>
+		<fruit>pear</fruit>
+	</plant>
+	<plant type="Bush">
+		<name>Purple Waffle</name>
+		<height>53.3</height>
+		<fruit>strawberry</fruit>
+	</plant>
+	<plant type="Bush">
+		<name>Vinca, Perennial</name>
+		<height>33.29</height>
+		<fruit>Raspberry</fruit>
+	</plant>
+</plants>

@@ -1,0 +1,18 @@
+<plants>
+	<plant type="Tree">
+		<name>Weeping Willow</name>
+		<height>423.50</height>
+	</plant>
+	<plant type="Tree">
+		<name>Red Maple</name>
+		<height>510.20</height>
+	</plant>
+	<plant type="Tree">
+		<name>Weeping Willow</name>
+		<height>351.60</height>
+	</plant>
+	<plant type="Tree">
+		<name>Autumn Color Collection</name>
+		<height>655.80</height>
+	</plant>
+</plants>

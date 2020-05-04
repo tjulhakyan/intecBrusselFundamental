@@ -1,0 +1,22 @@
+<plants>
+	<plant type="Weed">
+		<name>Ruderalis</name>
+		<height>12.5</height>
+		<area>125.5</area>
+	</plant>
+	<plant type="Weed">
+		<name>Sour Diesel</name>
+		<height>26.60</height>
+		<area>205.60</area>
+	</plant>
+	<plant type="Weed">
+		<name>Purple Kush</name>
+		<height>40.30</height>
+		<area>190.90</area>
+	</plant>
+	<plant type="Weed">
+		<name>Blue Dream</name>
+		<height>26.20</height>
+		<area>110.90</area>
+	</plant>
+</plants>

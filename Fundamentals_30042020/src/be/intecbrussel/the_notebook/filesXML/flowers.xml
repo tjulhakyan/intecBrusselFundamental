@@ -1,0 +1,18 @@
+<plants>
+    <plant type="Flower">
+        <name>Amaryllis</name>
+        <height>75.2</height>
+    </plant>
+    <plant type="Flower">
+        <name>African violet</name>
+        <height>42.33</height>
+    </plant>
+    <plant type="Flower">
+        <name>Angel wing begonia</name>
+        <height>68.1</height>
+    </plant>
+    <plant type="Flower">
+        <name>Barberton</name>
+        <height>68.23</height>
+    </plant>
+</plants>
